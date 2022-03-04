@@ -5,7 +5,8 @@
 
 Compilation
 ===========
-* 'ocamlbuild main.byte'
+* To install `menhir` : `opam install menhir`
+* Then `dune build`
 
 Dependancies
 ============
